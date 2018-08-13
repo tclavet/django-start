@@ -7,13 +7,9 @@ It also automatically creates an app in the django project. You need to then ins
 In order to use the script, you need to make sure you have the virutalenv package installed in order to be able to create them.
 You then need to just to clone this repository:
 
-'''
-git clone https://github.com/tclavet/django-start.git
-'''
+'git clone https://github.com/tclavet/django-start.git'
 
 ## Running
 In order to run the script and have an initialized virtualenv with a django project and an app ready to go, you just need to run the script directly from the folder where you want your project
 
-'''
-source creation_django_project example_project example_app
-'''
+'source creation_django_project example_project example_app'
