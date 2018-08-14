@@ -12,4 +12,4 @@ You then need to just to clone this repository:
 ## Running
 In order to run the script and have an initialized virtualenv with a django project and an app ready to go, you just need to run the script directly from the folder where you want your project
 
-`source creation_django_project example_project example_app`
+`source creation_django_project.sh example_project example_app`
