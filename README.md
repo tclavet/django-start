@@ -5,6 +5,7 @@ It also automatically creates an app in the django project. You need to then ins
 
 ## Curl
 You can directly run the script from your terminal using curl as follow:
+
 `source <(curl -Ls https://raw.githubusercontent.com/tclavet/django-start/master/creation_django_project.sh) example_project example_app`
 
 ## Installation
